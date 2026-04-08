@@ -32,6 +32,7 @@
       "path": "project-update.html",
       "title": "Aktualizace projektu",
       "navLabel": "Aktualizace",
+      "homepage": false,
       "pageType": "update"
     }
   ],
