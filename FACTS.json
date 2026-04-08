@@ -1,0 +1,68 @@
+{
+  "subject": "Vytvoř multi-page statický web s index.html, sources.html, faq.html, assets/styles.css a sdílenou navigací.",
+  "sourceList": [
+    {
+      "url": "https://www.cyberangles.org/html-css-tutorial/how-to-build-a-multi-page-website-using-html-css/",
+      "title": "How to Build a Multi-Page Website Using HTML &amp; CSS — CyberAngles.org",
+      "priority": "trusted",
+      "usedInFacts": false
+    },
+    {
+      "url": "https://www.jakpsatweb.cz/html/",
+      "title": "HTML příručka, přehled HTML tagů",
+      "priority": "secondary",
+      "usedInFacts": false
+    },
+    {
+      "url": "https://www.w3schools.com/html/",
+      "title": "HTML Tutorial",
+      "priority": "secondary",
+      "usedInFacts": false
+    }
+  ],
+  "verifiedFacts": [],
+  "factsWithConfidence": [],
+  "uncertainFacts": [
+    "Model nevrátil validní research JSON."
+  ],
+  "excludedFacts": [],
+  "sourceConflicts": [],
+  "contentAngles": [
+    "Konzervativní sumarizace bez neověřených detailů"
+  ],
+  "recommendedSections": [
+    "Co je potvrzeno",
+    "Zdroje"
+  ],
+  "researchPlan": {
+    "subject": "Vytvoř multi-page statický web s index.html, sources.html, faq.html, assets/styles.css a sdílenou navigací.",
+    "mainResearchQuestions": [],
+    "criticalInformation": [],
+    "niceToHaveInformation": [],
+    "prioritySourceTypes": [
+      "official",
+      "trusted"
+    ],
+    "riskAreas": [],
+    "timeRelevanceNotes": []
+  },
+  "sectionPlans": [],
+  "assetPlan": {
+    "hasLogoOpportunity": false,
+    "suggestedImages": [],
+    "colorScheme": "professional",
+    "visualStyle": "clean",
+    "iconPlacementSuggestions": []
+  },
+  "notes": [
+    "Subject: Vytvoř multi-page statický web s index.html, sources.html, faq.html, assets/styles.css a sdílenou navigací.",
+    "Task type: factual-info-page",
+    "Sources fetched: 3",
+    "Verified facts: 0",
+    "Facts with confidence scoring: 0",
+    "Source conflicts detected: 0",
+    "Excluded facts: 0",
+    "Low fact count: používej opatrný stručný výstup a přidej zdroje."
+  ],
+  "researchInsufficientWarning": "Warning: No high-confidence facts found. Use cautious, brief output or request user to clarify scope."
+}
